@@ -187,7 +187,7 @@ item.scrolloffreedom.name=自由卷轴
 item.scrollofowner.name=重置所有者卷轴
 item.scrollofsale.name=出售卷轴
 item.sharksword.name=鲨鱼剑
-item.sharkteeth.name=鲨鱼牙
+item.sharkteeth.name=鲨鱼牙齿
 item.staffportal.name=翼龙传送法杖
 item.staffteleport.name=传送法杖
 item.sugarlump.name=糖块
@@ -540,13 +540,13 @@ achievement.MoCreatures.cook_turtle=可疑美味
 achievement.MoCreatures.cook_turtle.desc=制作龟肉汤。
 
 achievement.MoCreatures.kill_wraith=驱魂者
-achievement.MoCreatures.kill_wraith.desc=击败一个幽灵。
+achievement.MoCreatures.kill_wraith.desc=击杀一个幽灵。
 
 achievement.MoCreatures.kill_ogre=食人魔屠戮者
-achievement.MoCreatures.kill_ogre.desc=击败一个食人魔。
+achievement.MoCreatures.kill_ogre.desc=击杀一个食人魔。
 
 achievement.MoCreatures.kill_werewolf=狼人屠戮者
-achievement.MoCreatures.kill_werewolf.desc=在狼形态下击败一个狼人。
+achievement.MoCreatures.kill_werewolf.desc=在狼形态下击杀一个狼人。
 
 achievement.MoCreatures.kill_big_golem=傀儡屠戮者
 achievement.MoCreatures.kill_big_golem.desc=杀死一只大傀儡并获得它的中心方块。
