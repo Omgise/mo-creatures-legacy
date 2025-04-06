@@ -143,7 +143,7 @@ item.mocegg.83.name=鮟鱇鱼蛋
 item.mocegg.84.name=鳜鱼蛋
 item.mocegg.90.name=食人鱼蛋
 item.nunchaku.name=双节棍
-item.omelet.name=煎蛋卷
+item.omelet.name=煎蛋饼
 item.ostrichcooked.name=熟鸵鸟肉
 item.ostrichraw.name=生鸵鸟肉
 item.petamulet.name=宠物护身符
@@ -519,16 +519,16 @@ achievement.MoCreatures.milk_goat=山羊挤奶员
 achievement.MoCreatures.milk_goat.desc=使用桶从成年母山羊身上挤奶如果你愿意，可以使用任何食物驯服山羊
 
 achievement.MoCreatures.cook_omelette=阳光面朝上
-achievement.MoCreatures.cook_omelette.desc=煮熟任何鸡蛋
+achievement.MoCreatures.cook_omelette.desc=烤熟任何鸡蛋
 
 achievement.MoCreatures.cook_turkey=比鸡更丰盛
-achievement.MoCreatures.cook_turkey.desc=煮熟生的火鸡
+achievement.MoCreatures.cook_turkey.desc=烤熟生的火鸡
 
 achievement.MoCreatures.cook_ostrich=更像牛肉的味道
-achievement.MoCreatures.cook_ostrich.desc=煮熟生的鸵鸟肉
+achievement.MoCreatures.cook_ostrich.desc=烤熟生的鸵鸟肉
 
 achievement.MoCreatures.cook_rat=像鸡肉的味道
-achievement.MoCreatures.cook_rat.desc=煮熟生的大鼠肉
+achievement.MoCreatures.cook_rat.desc=烤熟生的大鼠肉
 
 achievement.MoCreatures.rat_burger=美食大鼠汉堡
 achievement.MoCreatures.rat_burger.desc=制作一份大鼠肉汉堡
